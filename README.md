@@ -42,8 +42,8 @@ The MAC Address Changer is a command-line tool designed to modify the MAC addres
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/mac-changer.git
-cd mac-changer
+git clone https://github.com/arad1367/MAC-Address-Changer.git
+cd MAC-Address-Changer
 ```
 2. Make the script executable:
 ```
